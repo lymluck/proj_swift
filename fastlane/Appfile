@@ -1,0 +1,8 @@
+app_identifier("com.smartstudy.xxd") # The bundle identifier of your app
+apple_id("tanxiao@innobuddy.com") # Your Apple email address
+
+itc_team_id("1187222") # iTunes Connect Team ID
+team_id("ZZ9329T9X9") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

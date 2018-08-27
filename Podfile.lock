@@ -1,0 +1,302 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - DACircularProgress (2.3.1)
+  - DeviceKit (1.7.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - JCore (1.2.0)
+  - JPush (3.0.9):
+    - JCore (~> 1.2.0)
+  - JTAppleCalendar (7.1.5)
+  - Kingfisher (4.8.0)
+  - LHPerformanceStatusBar (0.1.0)
+  - lottie-ios (2.5.0)
+  - Masonry (1.0.2)
+  - MJRefresh (3.1.15.3)
+  - PFVideoPlayer (0.1.3):
+    - RealReachability
+    - SnapKit
+  - pop (1.0.10)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - RealReachability (1.3.0):
+    - RealReachability/Connection (= 1.3.0)
+    - RealReachability/Ping (= 1.3.0)
+  - RealReachability/Connection (1.3.0)
+  - RealReachability/Ping (1.3.0)
+  - RongCloudIM/IMLib (2.8.32)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SensorsAnalyticsSDK (1.10.6):
+    - SensorsAnalyticsSDK/core (= 1.10.6)
+  - SensorsAnalyticsSDK/core (1.10.6)
+  - SnapKit (4.0.0)
+  - Socket.IO-Client-Swift (12.0.0):
+    - StarscreamSocketIO (~> 8.0.7)
+  - SSKit (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base (= 0.3.7)
+    - SSKit/Controller (= 0.3.7)
+    - SSKit/Model (= 0.3.7)
+    - SSKit/Network (= 0.3.7)
+    - SSKit/Nimbus (= 0.3.7)
+    - SSKit/View (= 0.3.7)
+  - SSKit/Base (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base/Category (= 0.3.7)
+  - SSKit/Base/Category (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+  - SSKit/Controller (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Model
+    - SSKit/View
+  - SSKit/Model (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Network
+    - SSKit/Nimbus
+  - SSKit/Network (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base
+  - SSKit/Nimbus (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base
+    - SSKit/Nimbus/AttributedLabel (= 0.3.7)
+    - SSKit/Nimbus/Models (= 0.3.7)
+  - SSKit/Nimbus/AttributedLabel (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base
+  - SSKit/Nimbus/Models (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base
+  - SSKit/View (0.3.7):
+    - AFNetworking (~> 3.1.0)
+    - Masonry (~> 1.0.2)
+    - MJRefresh (~> 3.1.12)
+    - SSKit/Base
+  - SSOpenID (0.0.2)
+  - SSPhotoBrowser (0.2.7):
+    - DACircularProgress
+    - SDWebImage
+  - SSRobot-swift (0.4.4):
+    - Kingfisher
+    - Socket.IO-Client-Swift (= 12.0.0)
+    - SwiftyJSON (~> 4.0.0-alpha.1)
+  - StarscreamSocketIO (8.0.7)
+  - SwiftyJSON (4.0.0)
+  - UICKeyChainStore (2.1.1)
+  - UMCAnalytics (5.5.0):
+    - UMCCommon
+  - UMCCommon (1.5.2)
+  - UMCErrorCatch (1.0.0):
+    - UMCCommon
+  - UMCShare/Core (6.9.4):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - WMPageController (2.5.2)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+  - ZKUIKit (0.1.11):
+    - Masonry
+  - ZMJImageEditor (0.2.8):
+    - Masonry (~> 1.0.1)
+    - YYCategories (~> 1.0.4)
+  - ZXingObjC (3.2.2):
+    - ZXingObjC/All (= 3.2.2)
+  - ZXingObjC/All (3.2.2)
+
+DEPENDENCIES:
+  - DeviceKit
+  - IQKeyboardManagerSwift
+  - JPush
+  - JTAppleCalendar
+  - LHPerformanceStatusBar
+  - lottie-ios
+  - PFVideoPlayer (from `https://gitee.com/MrErGe/PFVideoPlayer.git`)
+  - pop (~> 1.0)
+  - RealmSwift
+  - RealReachability
+  - RongCloudIM/IMLib (~> 2.8.24)
+  - SDCycleScrollView (~> 1.66)
+  - SensorsAnalyticsSDK
+  - SnapKit
+  - SSKit (from `http://code.smartstudy.com/chenyusen/SSKit.git`)
+  - SSOpenID
+  - "SSPhotoBrowser (from `git@code.smartstudy.com:tanxiao/SSPhotoBrowser.git`)"
+  - "SSRobot-swift (from `git@code.smartstudy.com:tanxiao/SSRobot-swift.git`)"
+  - UICKeyChainStore (~> 2.1.1)
+  - UMCAnalytics
+  - UMCCommon
+  - UMCErrorCatch
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - WMPageController
+  - YYModel
+  - ZKUIKit
+  - "ZMJImageEditor (from `git@code.smartstudy.com:tanxiao/ZMJImageEditor.git`)"
+  - ZXingObjC (~> 3.2.2)
+
+SPEC REPOS:
+  "git@code.smartstudy.com:chenyusen/SSSpecs.git":
+    - SSOpenID
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - DACircularProgress
+    - DeviceKit
+    - IQKeyboardManagerSwift
+    - JCore
+    - JPush
+    - JTAppleCalendar
+    - Kingfisher
+    - LHPerformanceStatusBar
+    - lottie-ios
+    - Masonry
+    - MJRefresh
+    - pop
+    - Realm
+    - RealmSwift
+    - RealReachability
+    - RongCloudIM
+    - SDCycleScrollView
+    - SDWebImage
+    - SensorsAnalyticsSDK
+    - SnapKit
+    - Socket.IO-Client-Swift
+    - StarscreamSocketIO
+    - SwiftyJSON
+    - UICKeyChainStore
+    - UMCAnalytics
+    - UMCCommon
+    - UMCErrorCatch
+    - UMCShare
+    - WMPageController
+    - YYCategories
+    - YYModel
+    - ZKUIKit
+    - ZXingObjC
+
+EXTERNAL SOURCES:
+  PFVideoPlayer:
+    :git: https://gitee.com/MrErGe/PFVideoPlayer.git
+  SSKit:
+    :git: http://code.smartstudy.com/chenyusen/SSKit.git
+  SSPhotoBrowser:
+    :git: "git@code.smartstudy.com:tanxiao/SSPhotoBrowser.git"
+  SSRobot-swift:
+    :git: "git@code.smartstudy.com:tanxiao/SSRobot-swift.git"
+  ZMJImageEditor:
+    :git: "git@code.smartstudy.com:tanxiao/ZMJImageEditor.git"
+
+CHECKOUT OPTIONS:
+  PFVideoPlayer:
+    :commit: 3491366e64327dd905e71cfcc57f7b760522b373
+    :git: https://gitee.com/MrErGe/PFVideoPlayer.git
+  SSKit:
+    :commit: 797780691ace5c628a233c2a0ea5d7efce2eaa41
+    :git: http://code.smartstudy.com/chenyusen/SSKit.git
+  SSPhotoBrowser:
+    :commit: b21277343d33d39d59fc4b64b0e4f9d1d3a08ffd
+    :git: "git@code.smartstudy.com:tanxiao/SSPhotoBrowser.git"
+  SSRobot-swift:
+    :commit: baf013b16ce0974bcddb8b4c485df92d49ed8683
+    :git: "git@code.smartstudy.com:tanxiao/SSRobot-swift.git"
+  ZMJImageEditor:
+    :commit: be034dd67c50517e1070839ac93f60a91f574099
+    :git: "git@code.smartstudy.com:tanxiao/ZMJImageEditor.git"
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DeviceKit: 6a5bdeb103c03757bb94aef1ccb01e08bc8ef4ee
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  JCore: b52e3dd73625eec70afd1244bb9c41038aa06087
+  JPush: 48041e8c5ad2ef9b48709eb0888af9640b36e9b0
+  JTAppleCalendar: 2d4f974f9f3c8b4964d51ca1f6e004883c031fbe
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  LHPerformanceStatusBar: 068e2e40ccfac5be9c8ca2c1545daad92fb9b366
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  PFVideoPlayer: 199b9cae6730ee76e7c04941b934184c7651503e
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  RealReachability: eae9c58d2db52fadd8e1cba4b5d4c028454fbc47
+  RongCloudIM: 48bfc2fcb8d7cae8ce1e19cb5fb26d6d90616375
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SensorsAnalyticsSDK: 3998c7876e200c15a7ff14eccc1dc5463a4f763b
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Socket.IO-Client-Swift: 5b0154b42b3892bfb4c44fa138cbeb8afec4f6ef
+  SSKit: f0ef594d15e318eeb0d90fc0794653213670ec90
+  SSOpenID: 1af0d54d248241ac26560fe2b72612c776cb2cae
+  SSPhotoBrowser: 35706027b6e274aca13093d7ea0ee7f01564b8b0
+  SSRobot-swift: 7f5fa0eb708e46c34a9d81ca0832b813b2b49cf4
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  UICKeyChainStore: 239558492fa260531a0774cfc611ea83a6eaff3a
+  UMCAnalytics: 4667788559a72f2fa5077117d1b8802a3b6eb6bb
+  UMCCommon: 4392868ac47ff1b101663106bb114ba616fabbad
+  UMCErrorCatch: 51f1b68f920233e90a3fa6d51f0456174507ec78
+  UMCShare: aa233aecad67979930fe43f3a2f676023b669439
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  ZKUIKit: 2d497e3a7bf3ea08eb2d78740c9da2a303935ee0
+  ZMJImageEditor: 0d14ed7920e8599c1295fd6190d8c5851d56a657
+  ZXingObjC: 2c95a0dc52daac69b23ec78fad8fa2fec05f8981
+
+PODFILE CHECKSUM: 5de7783a1b841a716d613ddbd3a25e6188d86885
+
+COCOAPODS: 1.5.3

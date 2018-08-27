@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  xxd
+
+  Created by remy on 2017/12/18.
+  Copyright © 2017年 com.smartstudy. All rights reserved.
+*/
+
+CFBundleDisplayName = "选校帝";
+NSPhotoLibraryUsageDescription = "打开相册可以吗?";
+NSPhotoLibraryAddUsageDescription = "需要存储图片";
+NSCameraUsageDescription = "点击允许, 使用选校帝拍摄照片";
+NSMicrophoneUsageDescription = "打开麦克风可以吗?";

@@ -1,0 +1,346 @@
+/* 
+  Localizable.strings
+  xxd
+
+  Created by remy on 2017/12/18.
+  Copyright © 2017年 com.smartstudy. All rights reserved.
+*/
+
+"done" = "完成";
+"save" = "保存";
+"confirm" = "确认";
+"cancel" = "取消";
+"back" = "返回";
+"close" = "关闭";
+"reset" = "重置";
+"search" = "搜索";
+"submit" = "提交";
+"submit_success" = "提交成功";
+"publish_success" = "发布成功";
+"sign_up" = "注册";
+"sign_in" = "登录";
+"sign_in_success" = "登录成功";
+"sign_out" = "退出登录";
+"sign_out_confirm" = "确认要退出登录吗?";
+"sign_in_alert" = "您尚未登录";
+"sign_in_right" = "去登录";
+"remove_confirm" = "确认删除吗?";
+"input_please" = "请输入";
+"input_phone" = "请输入您的手机号";
+"input_captcha" = "请输入验证码";
+"get_captcha" = "获取验证码";
+"countdown_captcha" = "重新发送（%ds）";
+"resend_captcha" = "重新发送";
+"sign_in_agreement" = "登录即表示同意";
+"app_agreement" = "选校帝用户协议";
+"app_name" = "选校帝";
+"app_desc" = "轻松出国，简单留学";
+"upgrade_remind" = "升级提醒";
+"later_on" = "以后再说";
+"upgrade_now" = "马上升级";
+"app_version_latest" = "已是最新版本";
+"take_photo" = "拍照";
+"select_photo" = "从手机相册选择";
+"search_no_result" = "抱歉，没有找到与“%@”相关的信息";
+"share" = "分享";
+"share_desc" = "点击查看详细内容";
+"share_success" = "分享成功";
+"share_failure" = "分享失败";
+"online_consult" = "在线咨询";
+"exchange" = "换一换";
+"unhelpful" = "无帮助";
+"helpful" = "有帮助";
+"info_empty" = "%@不能为空";
+"info_error" = "%@不正确";
+"no_wifi_desc" = "连接不上网络啦！";
+"no_favorite_desc" = "还没有收藏的内容哦";
+"no_question_desc" = "还没有提过问题哦";
+"no_search_desc" = "抱歉，没有找到你想要的内容哦~";
+"known" = "知道啦！";
+"yes" = "是";
+"no" = "否";
+"more" = "查看更多";
+"click_more" = "点击查看更多";
+"unfold" = "展开";
+"read_all" = "阅读全文";
+"click_enter" = "点击进入";
+
+"tab_item_college" = "院校";
+"tab_item_rank" = "排名";
+"tab_item_college_rank" = "院校排名";
+"tab_item_info" = "资讯";
+"tab_item_qa" = "问答";
+"tab_item_course" = "课程";
+"tab_item_user" = "我的";
+"tab_item_study_abroad" = "留学";
+"tab_item_discovery" = "发现";
+
+"major_lib" = "专业库";
+"major_lib_title" = "专业";
+"major_chinese_name" = "专业名称：%@";
+"major_english_name" = "专业英文名：%@";
+"project_list_title" = "项目";
+"program_undergraduate" = "本科专业院校";
+"program_graduate" = "研究生专业院校";
+"program_recommend_college" = "%@推荐院校";
+
+"title_college" = "院校";
+"hottest_college" = "热门学校";
+"hottest_special" = "热门专题";
+"country_US" = "美国";
+"country_UK" = "英国";
+"country_CA" = "加拿大";
+"country_AU" = "澳大利亚";
+"college_country" = "全球大学,美国大学,英国大学,加拿大大学,澳大利亚大学";
+"accept_rate" = "录取率";
+"accept_rate_empty" = "暂无";
+"search_college" = "搜索学校";
+
+"title_rank" = "排名大全";
+"more_rank" = "更多排名";
+"hottest_rank" = "热门排名";
+"visit_count_rank" = "%zd 人看过";
+"rank_no_detail" = "该学校还没有详情！";
+
+"title_question" = "问答";
+"title_question_details" = "问题详情";
+"have_question" = "我有问题";
+"title_ask" = "提问";
+"ask_text_default" = "请尽可能提供个人和留学相关的信息，如当前成绩，外语水平，出国时间，准备情况，经济条件等，以便学长/学姐/留学顾问能根据你的实际情况来回答，关于在线问答，我们是认真的，希望能够帮助到大家！问题描述不少于30字！";
+"ask_text_min" = "问题描述不少于30字";
+"question_submit" = "发布";
+"title_recommend" = "推荐";
+"recommend_desc" = "以下问题和您的提问相关：";
+
+"title_favorite_type_question" = "留学问答";
+"title_favorite_type_news" = "留学资讯";
+"title_favorite_type_school_intro" = "学校简介";
+"title_favorite_type_undergraduate" = "本科申请";
+"title_favorite_type_graduate" = "研究生申请";
+"title_favorite_type_major_lib" = "专业库";
+"title_favorite_type_program" = "项目";
+
+"title_user_info" = "个人信息";
+"user_sign_in" = "请先登录";
+"user_study_plan" = "我的留学时间规划轴";
+"user_target" = "我的选校";
+"user_favorite" = "我的收藏";
+"user_question" = "我的问答";
+"user_message" = "我的消息";
+"user_more_tools" = "更多工具";
+"tool_toefl" = "斩托福";
+"tool_ielts" = "斩雅思";
+"tool_zkmsk" = "智课名师课";
+"user_add_group" = "一键加群";
+"user_robot" = "机器人小D";
+"user_setting" = "设置";
+"user_target_notice" = "代表该所院校并非您的意向地【%@】所属学校";
+"target_place" = "意向地";
+"target_place_select" = "我的意向国家";
+"target_place_refer" = "不知道去哪儿？来看看它们之间的区别吧";
+"title_target_place_refer" = "意向国家对比";
+"target_place_refer_desc" = "高中留学国家对比,本科留学国家对比,研究生留学国家对比";
+"target_place_refer_desc_tip" = "(博士项目的特殊性不在对比之列)";
+"user_target_add" = "添加选校";
+"user_target_match_top_college" = "冲刺院校";
+"user_target_match_middle_college" = "核心院校";
+"user_target_match_bottom_college" = "保底院校";
+"user_target_match_top" = "冲刺";
+"user_target_match_middle" = "核心";
+"user_target_match_bottom" = "保底";
+"user_target_remove" = "删除";
+"user_consult" = "客服咨询";
+"user_feedback" = "意见反馈";
+"user_share" = "推荐给好友";
+"user_app_version" = "版本检测";
+"user_about" = "关于选校帝";
+"user_cache_clear" = "清理缓存";
+"user_cache_clear_finish" = "清理完毕";
+"feedback_desc" = "欢迎您提出的宝贵意见和建议，您留下的每个字都会用来提升我们的服务品质。";
+"feedback_text_default" = "我的意见...（不多于250字）";
+"feedback_contact_default" = "50个字以内（手机号/邮箱）";
+"feedback_contact_way" = "联系方式";
+"feedback_content_empty" = "意见不能为空";
+"feedback_contact_empty" = "联系方式不能为空";
+"feedback_contact_limit" = "联系方式50个字以内";
+"user_info_empty" = "信息不能为空";
+"user_info_at_least_one" = "至少选择一项";
+"user_info_multiple_options" = "*可多选";
+"user_info_desc" = "你的留学信息都在这里";
+"user_info_name" = "昵称";
+"user_info_abroad_time" = "出国时间";
+"user_info_target" = "意向国家";
+"user_info_degree" = "申请项目";
+"user_info_target_college_rank" = "目标学校";
+"user_info_major_direction" = "专业方向";
+"user_info_other_school" = "在读学校";
+"user_info_other_school_score" = "在读成绩";
+"user_info_middle_school" = "初中学校";
+"user_info_middle_school_score" = "初中成绩";
+"user_info_high_school" = "高中学校";
+"user_info_high_school_score" = "高中成绩";
+"user_info_college" = "本科学校";
+"user_info_college_score" = "本科成绩";
+"user_info_language_score" = "语言成绩";
+"user_info_SAT_ACT" = "SAT/ACT";
+"user_info_GRE_GMAT" = "GRE/GMAT";
+"user_info_social_activity" = "社会活动";
+"user_info_internship_activity" = "实习活动";
+"user_info_research_activity" = "科研活动";
+"user_info_community_activity" = "课外活动";
+"user_info_exchange_activity" = "国际交流";
+"update_success" = "更新成功";
+"add_my_target_success" = "添加成功！";
+"remove_my_target_success" = "已从我的选校中移除该学校";
+"user_info_grade" = "当前年级";
+"user_info_major" = "在读专业";
+
+"smart_college" = "智能选校";
+"smart_college_rank" = "选校倾向";
+"start_smart_college" = "开始选校";
+"smart_major" = "智能选专业";
+"title_admission_test" = "录取率测试";
+"test_info_score" = "学习成绩";
+"test_info_score_default" = "百分制";
+"test_info_language" = "语言成绩";
+"test_info_toefl" = "TOEFL成绩";
+"test_info_ielts" = "IELTS成绩";
+"test_info_language_default" = "选择语言成绩类别";
+"test_info_toefl_default" = "TOEFL满分120";
+"test_info_ielts_default" = "IELTS满分9.0";
+"test_info_standard" = "标准化成绩";
+"test_info_sat" = "SAT成绩";
+"test_info_act" = "ACT成绩";
+"test_info_gre" = "GRE成绩";
+"test_info_gmat" = "GMAT成绩";
+"test_info_standard_default" = "选择标准化成绩类别";
+"test_info_sat_default" = "SAT满分1600";
+"test_info_act_default" = "ACT满分36";
+"test_info_gre_default" = "GRE满分346";
+"test_info_gmat_default" = "GMAT满分806";
+"test_info_score_empty" = "请至少提供一门语言/标准化成绩";
+"test_info_score_tip" = "注：为了测评准确性请至少提供一门语言/标准化成绩";
+"test_user_count" = "已有%zd人进行了测试";
+"start_test" = "开始测试";
+
+"smart_college_result" = "智能选校结果";
+"college_local_rank" = "国内排名：%@";
+"auto_add_my_target" = "一键加入选校";
+
+"smart_major_result" = "智能选专业结果";
+"smart_major_my_test" = "我的测试得分";
+"smart_major_suitable" = "适合你的类型：";
+"smart_major_recommend_college" = "推荐学校";
+"holland_test" = "霍兰德职业适应性测验";
+"holland_test_desc" = "霍兰德职业适应性测验(The Self-Directed Search，简称SDS)由美国著名职业指导专家 Ｊ.霍兰德（ＨＯＬＬＡＮＤ）编制。在几十年间经过一百多次大规模的实验研究，形成了人格类型与职业类型的学说和测验。 该测验能帮助被试者发现和确定自己的职业兴趣和能力专长, 从而科学地做出求职择业。\n\n霍兰德在其一系列关于人格与职业关系的假设的基础上，提出了六种基本的职业类型，即：实际型、研究型、艺术型、社会型、企业型、传统型。\n\n霍兰德职业兴趣SDS测试一般是适合于高中生，通过此测试可以让高中生确定自己的兴趣爱好，给大学的专业选择提供参考。目前我们国内的很多高中已经在实施霍兰德职业兴趣测试了，这是好的开始。如果你是大学生大一、大二的话也可以测一下，及时进行调整。";
+
+"title_admission_test_result" = "录取率测试结果";
+"target_to_you" = "%@对你来说";
+"admission_state" = "比较困难,有些难度,可以尝试,比较容易,胜券在握";
+"your_admission_rate" = "你的录取率";
+"average_admission_rate" = "平均录取率";
+"result_comment" = "成绩点评";
+"toefl" = "托福";
+"ielts" = "雅思";
+"sat" = "SAT";
+"act" = "ACT";
+"gre" = "GRE";
+"gmat" = "GMAT";
+"your_score_title" = "%zd. 你的【%@】成绩：";
+"score_empty" = "未填写";
+"your_score_state1" = "你尚未进行%@考试，无法满足该校的基本要求|%@分|，选校帝建议你认真备考，及早满足%@的%@要求。";
+"your_score_state2_0" = "离该校的%@成绩要求还差|%@分|，";
+"your_score_state2_1" = "战胜了|%@%%|测试过该校的同学，你的%@成绩尚未满足该校的基本要求，想要成功申请该校，选校帝建议你快速将%@成绩提升至%@分及以上。为了帮助你快速提升成绩，这些课程或许对你有帮助";
+"your_score_state3_0" = "已超过该校%@成绩要求|%@分|，";
+"your_score_state3_1" = "刚好达到该校的%@成绩要求，";
+"your_score_state3_2" = "战胜了|%@%%|测试过该校的同学。";
+"your_score_state3_3" = "你的%@成绩完全满足该校的申请要求，非常非常棒！";
+"your_score_state3_4" = "下列这些课程可能会给你带来一些帮助";
+"test_disclaimer" = "说明：测试结果仅供大家参考，如果对测试结果或者选校有任何疑问，欢迎咨询选校帝留学顾问！";
+
+"title_user_info_complete" = "完善个人信息";
+"phone_empty" = "手机号不能为空";
+"phone_invalid" = "手机号格式不正确";
+"captcha_empty" = "验证码不能为空";
+"user_info_complete_name" = "昵称";
+"user_info_complete_grade" = "当前年级";
+"user_info_complete_target" = "意向国家";
+"user_info_complete_degree" = "申请项目";
+
+"status_no_network" = "连接不上网络啦～";
+"status_default_error" = "抱歉，没有找到你想要的内容哦～";
+"status_default_empty" = "抱歉，没有相关数据哦～";
+
+"drag_to_load_more" = "上拉加载更多";
+"drag_refresh_is_loading_more" = "选校帝正在玩命加载中";
+"drag_refresh_is_no_more_data" = "没有更多数据啦~";
+
+"information_tag_total" = "全部";
+"information_tag_us" = "美国";
+"information_tag_au" = "澳大利亚";
+"information_tag_uk" = "英国";
+"information_tag_ca" = "加拿大";
+
+"study_abroad_school_button_title" = "我的选校";
+"study_abroad_message_button_title" = "消息";
+"study_abroad_hi" = "Hi~同学";
+"study_abroad_course" = "留学课程";
+"study_abroad_visa" = "留学签证";
+"study_abroad_ask" = "留学问问";
+"study_abroad_info" = "留学资讯";
+"study_abraod_ask_word" = "问";
+"study_abraod_answer_word" = "答";
+
+"school_detail_header_country_rank_title" = "国内排名";
+"school_detail_header_intl_rank_title" = "国际排名";
+
+"school_intro_cell_admissionRate" = "录取率";
+"school_intro_cell_fee" = "总花费";
+"school_intro_cell_deadline" = "申请截止日期";
+"school_intro_cell_phone" = "招生电话";
+"school_intro_cell_website" = "网址";
+"school_intro_cell_address" = "地址";
+"school_intro_cell_apply_cost" = "申请费用";
+"school_intro_cell_need_interview" = "面试";
+"school_intro_missing_value" = "暂缺";
+"school_intro_view_more" = "查看更多详情";
+"school_intro_score_tip" = "* 雅思和托福只需要一个成绩即可申请";
+
+"course_tab_intro" = "简介";
+"course_tab_outline" = "大纲";
+"course_tab_evaluation" = "评价";
+"course_evaluation_tip" = "评价该课程";
+"course_submit_evaluation_success" = "评价课程成功";
+
+"course_evaluation_mark_desc_one" = "很糟糕";
+"course_evaluation_mark_desc_two" = "不太好";
+"course_evaluation_mark_desc_three" = "一般般";
+"course_evaluation_mark_desc_four" = "很不错";
+"course_evaluation_mark_desc_five" = "超级好";
+
+"course_evaluation_mark_question" = "写下你的评论...";
+"course_evaluation_submit_evaluation" = "提交评价";
+"course_evaluation_evaluation_list_section" = "评价详情";
+"course_evaluation_view_to_evaulate" = "观看课程后才可以评价";
+
+"visa_country" = "美国签证,英国签证,加拿大签证,澳大利亚签证";
+"visa_detail_faq_title" = "%@留学常见问题";
+"visa_detail_address_title" = "%@地址";
+
+"information_title" = "资讯列表";
+"abroad_stage_visit_count" = "%ld人观看";
+
+"message_center_title" = "消息中心";
+"visa_visit_count" = "%zd人浏览";
+"visa_provider" = "本课程由%@提供";
+"visa_course_intro" = "课程介绍";
+"visa_course_target" = "课程适用人群";
+"visa_course_teacher" = "课程主讲老师";
+"visa_service" = "智课留学服务";
+"visa_information_title" = "签证资讯";
+
+"completion_title" = "花七秒钟让我们了解你";
+"completion_subtitle" = "以让你享受个性化的留学服务";
+
+
+"special_title" = "专题中心";
